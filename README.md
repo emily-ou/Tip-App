@@ -1,2 +1,2 @@
 # Tip-App
-<img src="https://recordit.co/yB3wZ0VXFC" width=250>
+<img src="http://g.recordit.co/yB3wZ0VXFC.gif" width=250>
